@@ -1,6 +1,6 @@
 {
   "name": "Pure Extras",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "main": "css/pure-extras.css",
   "ignore": [
     ".jshintrc",
@@ -11,6 +11,6 @@
     "README.md"
   ],
   "dependencies": {
-    "pure": "0.3.0"
+    "pure": "0.5.0"
   }
 }
